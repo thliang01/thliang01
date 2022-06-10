@@ -12,10 +12,11 @@
 
 ## 📊 Github stats
 <a href="https://github.com/thliang01">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thliang01&theme=dark)](https://git.io/streak-stats)
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thliang01&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=cobalt2">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thliang01&count_private=true&layout=compact&theme=cobalt2">
 
 </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thliang01&theme=dark)](https://git.io/streak-stats)
