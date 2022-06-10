@@ -11,12 +11,15 @@
 
 
 ## 📊 Github stats
-<a href="https://github.com/thliang01">
-
+<p align="center">
+  <a href="https://github.com/thliang01">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thliang01&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=cobalt2">
-
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/thliang01">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thliang01&count_private=true&layout=compact&theme=cobalt2">
-
+  </a>
 </a>
 
 ## 🔥 Streak stats
