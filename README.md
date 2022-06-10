@@ -19,4 +19,11 @@
 
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thliang01&theme=dark)](https://git.io/streak-stats)
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thomas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thliang01&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
