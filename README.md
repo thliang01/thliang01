@@ -40,14 +40,8 @@
    <br/>
       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </a>
-<<<<<<< HEAD
 </details> 
 
-<!-- ## 🛠️  Tech Stack >
+<!-- ## 🛠️   Languages and Tools: >
 
 <!-- ## How to reach me: >
-=======
-</details>
-
-<!-- ## 🌱 I’m currently learning ... >
->>>>>>> a8cd0b7085d7a08b71f4a8318d49dca490a9a364
