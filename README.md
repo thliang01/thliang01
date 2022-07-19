@@ -14,19 +14,16 @@
 
 ## 📊 Github stats
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <p align="center">
-      <a href="https://github.com/thliang01">
+  <p align="center">
+    <a href="https://github.com/thliang01">
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=thliang01&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=react">
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/thliang01">
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/thliang01">
       <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thliang01&count_private=true&layout=compact&theme=react">
-      </a>
-   <br/>
-      <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    </a>
+  </p>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </a>
-</details>
