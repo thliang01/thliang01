@@ -1,3 +1,5 @@
+<!-- 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 -->
+
 <h3 align="center">
   Hi, I'm Thomas!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
