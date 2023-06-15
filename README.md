@@ -1,27 +1,6 @@
 <!-- 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 -->
 <h3 align="center">
-  Hello, I'm @thliang01
-
-
-
-🖥️ My role is...
-
-
-
-📚 My interests include...
-
-
-
-🪴 I'm currently learning...
-
-
-
-🚀 Let's collaborate on...
-
-
-
-✉️ You can reach me here...
-
+<!--   Hello, I'm @thliang01 -->
 
 
 
