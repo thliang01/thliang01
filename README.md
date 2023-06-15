@@ -1,6 +1,30 @@
 <!-- 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 -->
 <h3 align="center">
-  Hi, I'm Thomas!
+  Hello, I'm @thliang01
+
+
+
+🖥️ My role is...
+
+
+
+📚 My interests include...
+
+
+
+🪴 I'm currently learning...
+
+
+
+🚀 Let's collaborate on...
+
+
+
+✉️ You can reach me here...
+
+
+
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <br/>
 
