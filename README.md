@@ -1,4 +1,13 @@
-𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+### <div align="center">I'm Thomas, a developer 👨‍💻 </div>  
+  
+
+- 🌱 I’m currently learning ML System and ML Safety  
+  
+
+- ❓ Ask me about anything
+
+<br/>  
+
 <h3 align="center">
 <!--   Hello, I'm @thliang01 -->
 
