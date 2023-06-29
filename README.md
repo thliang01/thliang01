@@ -6,6 +6,13 @@
 
 - ❓ Ask me about anything
 
+<br/> 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thliang01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thliang01&hide_border=true&layout=compact" align="center" /></div>  
+
 <br/>  
 
 <h3 align="center">
