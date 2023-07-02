@@ -37,9 +37,9 @@
 
 <br/>
 
-
+<!--
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-
+>
 <!-- ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
