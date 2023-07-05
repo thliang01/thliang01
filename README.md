@@ -1,4 +1,4 @@
-### <div align="center">I'm Thomas, a developer 👨‍💻 </div>  
+### <div align="center">I'm Thomas</div>  
   
 
 - 🌱 I’m currently learning ML System and ML Safety  
