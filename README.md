@@ -1,8 +1,6 @@
 ## <div align="center">I'm Thomas, a Software Developer and OSS Lover</div>  
-  
 
 - 🌱 I’m currently learning ML System and ML Safety  
-  
 
 - ❓ Ask me about anything
 
