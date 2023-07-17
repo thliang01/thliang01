@@ -1,4 +1,4 @@
-## <div align="center">I'm Thomas, a Software Developer and OSS Lover</div>  
+## <div align="center">I'm Thomas, a Software Developer</div>  
 
 - 🌱 I’m currently learning ML System
 
