@@ -1,7 +1,6 @@
 ## <div align="center">I'm Thomas, a Open Source developer.</div>  
 
-- 🌱 I’m currently learning ML System
-
+- 🌱 I’m currently learning Systems programming
 - ❓ Ask me about anything
 
 <br/> 
