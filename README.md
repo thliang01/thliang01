@@ -1,6 +1,6 @@
-## <div align="center">I'm Thomas, a Open Source developer.</div>  
+## <div align="center">I'm Thomas</div>  
 
-- 🌱 I’m currently learning Systems programming
+- 🌱 I’m currently learning Systems Programming
 - ❓ Ask me about anything
 
 <br/> 
