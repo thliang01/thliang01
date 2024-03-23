@@ -1,6 +1,6 @@
 ## <div align="center">I'm Thomas</div>  
 
-- 🌱 I’m currently learning Systems Programming
+- 🌱 I’m currently learning Promting
 - ❓ Ask me about anything
 
 <br/> 
