@@ -1,6 +1,6 @@
 ## <div align="center">I'm Thomas</div>  
 
-- 🌱 I’m currently learning Promting, LangChain
+- 🌱 I’m currently learning Promting, LangChain, DSPy
 - ❓ Ask me about anything
 
 <br/> 
