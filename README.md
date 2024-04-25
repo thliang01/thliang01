@@ -1,6 +1,6 @@
 ## <div align="center">I'm Thomas</div>  
 
-- 🌱 I’m currently learning Promting, LangChain, DSPy
+- 🌱 I’m currently learning Quantization, Diffusion Model, Efficient Fine-tuning
 - ❓ Ask me about anything
 
 <br/> 
