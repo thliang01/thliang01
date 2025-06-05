@@ -1,7 +1,6 @@
 ## <div align="center">I'm Thomas</div>  
 
-- 🌱 I’m currently learning Quantization, Diffusion Model, Efficient Fine-tuning
-- ❓ Ask me about anything
+- 🌱 I’m currently learning Quantization, Diffusion Model, and Efficient Fine-tuning
 
 <br/> 
 
