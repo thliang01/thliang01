@@ -1,6 +1,7 @@
 ## <div align="center">I'm Thomas</div>  
 
 - 🌱 I’m currently learning Quantization, Diffusion Model, and Efficient Fine-tuning
+<!-- - Curriculum Vitae--> 
 
 <br/> 
 
