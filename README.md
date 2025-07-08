@@ -1,4 +1,4 @@
-## <div align="center">I'm Thomas</div>  
+## <div align="center">I'm Thomas (Guang-Ting) Liang</div>  
 
 - 🌱 I’m currently learning Quantization, Diffusion Model, and Efficient Fine-tuning
 <!-- - Curriculum Vitae--> 
