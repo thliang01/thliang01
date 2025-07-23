@@ -1,6 +1,6 @@
 ## <div align="center">Hi there, I'm Thomas Liang👋</div>  
 
-- 🌱 I’m currently learning Quantization, Diffusion Model, and Efficient Fine-tuning
+<!--🌱 I’m currently learning Quantization, Diffusion Model, and Efficient Fine-tuning -->
 
 <!-- - Curriculum Vitae--> 
 
