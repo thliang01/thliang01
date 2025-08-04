@@ -1,8 +1,18 @@
 ## <div align="center">Hi there, I'm Thomas Liang👋</div>  
 
-<!--🌱 I’m currently learning Quantization, Diffusion Model, and Efficient Fine-tuning -->
+## About Me
 
-<!-- - Curriculum Vitae--> 
+I'm Thomas (`@thliang01`), a developer passionate about democratizing AI through open-source contributions.
+
+As a contributor to Hugging Face `Optimum-Quanto` and an active member of the `marimo` community, I focus on improving the usability of developer tools. I contribute to the community in the following ways:
+
+- Code Contribution: Enhancing foundational tools by contributing to key Hugging Face ecosystem projects, such as providing the StableDiffusion example for `Optimum-Quanto`.
+
+- Knowledge Sharing: Authoring educational notebooks for `marimo-learn` and participating in the official **Traditional Chinese translation of the Hugging Face Course** to lower the barrier to entry for AI technology.
+
+- Community Internationalization: Contributing to the official Traditional Chinese translation for `marimo`, helping the local developer community connect with world-class tools.
+
+My open-source journey can be followed on [github.com/thliang01](github.com/thliang01) and [hf.co/thliang01](hf.co/thliang01).
 
 <br/> 
 
@@ -24,8 +34,6 @@
 </div>  
 
 <br/>  
-
-
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=thliang01&show_icons=true&count_private=true&hide_border=true" align="left" />  
