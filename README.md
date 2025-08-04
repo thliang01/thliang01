@@ -2,8 +2,7 @@
 
 ## About Me
 
-I'm Thomas (`@thliang01`)
-A developer passionate about democratizing AI through open-source contributions.
+I'm Thomas (`@thliang01`), a developer passionate about democratizing AI through open-source contributions.
 
 As a contributor to Hugging Face `Optimum-Quanto` and an active member of the `marimo` community, I focus on improving the usability of developer tools. I contribute to the community in the following ways:
 
