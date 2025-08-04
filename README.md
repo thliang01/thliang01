@@ -4,13 +4,13 @@
 
 I'm Thomas (`@thliang01`), a developer passionate about democratizing AI through open-source contributions.
 
-As a contributor to Hugging Face `Optimum-Quanto` and an active member of the `marimo` community, I focus on improving the usability of developer tools. I contribute to the community in the following ways:
+As a contributor to `Hugging Face Optimum-Quanto` and an active member of the `marimo` community, I focus on improving the usability of developer tools. I engage with the community through three key pillars:
 
 - **Code Contribution**: Enhancing foundational tools by contributing to key Hugging Face ecosystem projects, such as providing the StableDiffusion example for `Optimum-Quanto`.
 
-- **Knowledge Sharing**: Authoring educational notebooks for `marimo-learn` and participating in the official **Traditional Chinese translation of the Hugging Face Course** to lower the barrier to entry for AI technology.
+- **Knowledge Sharing**: Authoring educational notebooks for `marimo-learn` and participating in the official Traditional Chinese translation of the `Hugging Face Course`  to make advanced AI more accessible.
 
-- **Community Internationalization**: Contributing to the official Traditional Chinese translation for `marimo`, helping the local developer community connect with world-class tools.
+- **Community Internationalization**: Contributing to the official Traditional Chinese translation for `marimo`, enabling the local developer community to seamlessly adopt world-class tools.
 
 My open-source journey can be followed on [github.com/thliang01](github.com/thliang01) and [hf.co/thliang01](hf.co/thliang01).
 
