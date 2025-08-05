@@ -12,7 +12,7 @@ As a contributor to `Hugging Face Optimum-Quanto` and an active member of the `m
 
 - **Community Internationalization**: Contributing to the official Traditional Chinese translation for `marimo`, enabling the local developer community to seamlessly adopt world-class tools.
 
-My open-source journey can be followed on [github.com/thliang01](github.com/thliang01) and [hf.co/thliang01](hf.co/thliang01).
+My open-source journey can be followed on [github.com/thliang01](github.com/thliang01) and [huggingface.co/thliang01](https://huggingface.co/thliang01).
 
 <br/> 
 
