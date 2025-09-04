@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi All,  I'm Thomas, a member of Twinkle AI, a Traditional Chinese language model research community. I'm a developer focused on democratizing AI via open-source contributions to Hugging Face Optimum-Quanto and marimo, enhancing developer tools, and sharing knowledge.
+Hi All,  I'm Thomas, a member of Twinkle AI, a Traditional Chinese language model research community. I'm a developer focused on democratizing AI via open-source contributions to Hugging Face `Optimum-Quanto` and `marimo`, enhancing developer tools, and sharing knowledge.
 
 As a contributor to Hugging Face `Optimum-Quanto` and an active member of the `marimo` community, I focus on improving the usability of developer tools. I engage with the community through three key pillars:
 
