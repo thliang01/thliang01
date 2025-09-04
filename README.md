@@ -20,6 +20,9 @@ My open-source journey can be followed on [github.com/thliang01](https://github.
 - 📚 marimo-learn Co-Author
 - 🌏 Traditional Chinese Translator for HF Course & marimo
 
+## 📊 GitHub Stats
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thliang01&show_icons=true&theme=radical)
+
 <br/> 
 
 <!--
