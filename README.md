@@ -21,7 +21,7 @@ My open-source journey can be followed on [github.com/thliang01](https://github.
 - 🌏 Traditional Chinese Translator for HF Course & marimo
 
 ## 📊 GitHub Stats
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thliang01&show_icons=true&theme=radical)
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thliang01&show_icons=true&theme=vue-dark)
 
 <br/> 
 
@@ -44,8 +44,10 @@ My open-source journey can be followed on [github.com/thliang01](https://github.
 
 <br/>  
 
+<!--
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=thliang01&show_icons=true&count_private=true&hide_border=true" align="left" />  
+-->
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thliang01&hide_border=true&layout=compact"/> -->
 <br />
