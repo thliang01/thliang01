@@ -28,4 +28,4 @@ My open-source journey can be followed on [github.com/thliang01](https://github.
 [![Website](https://img.shields.io/badge/🌐_Website-ating.dev-0A0A0A?style=for-the-badge)](https://ating.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-@thliang01-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thliang01)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-thliang01-FFD21E?style=for-the-badge)](https://huggingface.co/thliang01)
-[![Email](https://img.shields.io/badge/📧_Email-thliang01@gmail.com-D14836?style=for-the-badge)](mailto:thliang01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thliang01@gmail.com)
