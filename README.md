@@ -14,6 +14,11 @@ As a contributor to Hugging Face `Optimum-Quanto` and an active member of the `m
 
 My open-source journey can be followed on [github.com/thliang01](https://github.com/thliang01) and [huggingface.co/thliang01](https://huggingface.co/thliang01).
 
+## 🏆 Achievements
+
+- 🌟 Hugging Face Optimum-Quanto Contributor
+- 📚 marimo-learn Co-Author
+- 🌏 Traditional Chinese Translator for HF Course & marimo
 
 <br/> 
 
