@@ -42,7 +42,7 @@ I contribute to the **Hugging Face** ecosystem (Transformers, Optimum-Quanto, HF
 | Project | Role | Stars |
 |---------|------|-------|
 | **[marimo-learn](https://github.com/marimo-team/learn)** | Co-author of official educational notebooks | [![Stars](https://img.shields.io/github/stars/marimo-team/learn?style=flat-square)](https://github.com/marimo-team/learn) |
-| **[marimo-LLMs-from-scratch](https://github.com/thliang01/marimo-LLMs-from-scratch)** | Bilingual (EN/繁中) interactive LLM tutorial | ⭐ 6 |
+| **[marimo-LLMs-from-scratch](https://github.com/thliang01/marimo-LLMs-from-scratch)** | Bilingual (EN/繁中) interactive LLM tutorial | [![Stars](https://img.shields.io/github/stars/thliang01/marimo-LLMs-from-scratch?style=flat-square)](https://github.com/thliang01/marimo-LLMs-from-scratch) |
 | **marimo core** | Official Traditional Chinese translator · Credited in release notes (v0.9.31+) | [Repo →](https://github.com/marimo-team/marimo) |
 
 ### ⭐ Twinkle AI
