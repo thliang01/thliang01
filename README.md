@@ -9,7 +9,7 @@
 HF Transformers contributor · 72 models on HF Hub · marimo-learn co-author · Twinkle AI brand designer
 
 [![Website](https://img.shields.io/badge/Website-ating.dev-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white)](https://ating.dev)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-thliang01-FFD21E?style=flat-square)](https://huggingface.co/thliang01)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-thliang01-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/thliang01)
 [![GitHub](https://img.shields.io/badge/GitHub-thliang01-100000?style=flat-square&logo=github)](https://github.com/thliang01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thliang01-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thliang01/)
 [![Twitter](https://img.shields.io/badge/Twitter-_thliang01-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_thliang01)
@@ -41,7 +41,7 @@ I contribute to the **Hugging Face** ecosystem (Transformers, Optimum-Quanto, HF
 
 | Project | Role | Stars |
 |---------|------|-------|
-| **[marimo-learn](https://github.com/marimo-team/learn)** | Co-author of official educational notebooks | ⭐ 235+ |
+| **[marimo-learn](https://github.com/marimo-team/learn)** | Co-author of official educational notebooks | [![Stars](https://img.shields.io/github/stars/marimo-team/learn?style=flat-square)](https://github.com/marimo-team/learn) |
 | **[marimo-LLMs-from-scratch](https://github.com/thliang01/marimo-LLMs-from-scratch)** | Bilingual (EN/繁中) interactive LLM tutorial | ⭐ 6 |
 | **marimo core** | Official Traditional Chinese translator · Credited in release notes (v0.9.31+) | [Repo →](https://github.com/marimo-team/marimo) |
 
@@ -71,14 +71,14 @@ Core member and complete brand designer for Taiwan's Traditional Chinese LLM res
 
 ## Technical Focus
 
-```
-Efficient ML        LoRA · DoRA · Quantization (GGUF, Quanto) · Model Compression
-LLMs & VLMs         Post-training · Serving (vLLM, SGLang, LM Studio) · Traditional Chinese NLP
-Diffusion Models    SDXL fine-tuning · StableDiffusion · Image generation
-Tools & Infra       PyTorch · Transformers · marimo · Cloudflare Workers
-Design              Brand identity · Mascot design · Visual communication
-Languages           Python · SQL · 繁體中文 · English
-```
+| Area | Skills |
+|------|--------|
+| **Efficient ML** | LoRA · DoRA · Quantization (GGUF, Quanto) · Model Compression |
+| **LLMs & VLMs** | Post-training · Serving (vLLM, SGLang, LM Studio) · Traditional Chinese NLP |
+| **Diffusion Models** | SDXL fine-tuning · StableDiffusion · Image generation |
+| **Tools & Infra** | PyTorch · Transformers · marimo · Cloudflare Workers |
+| **Design** | Brand identity · Mascot design · Visual communication |
+| **Languages** | Python · SQL · 繁體中文 · English |
 
 ---
 
@@ -100,6 +100,7 @@ I'm open to collaboration on Hugging Face ecosystem tools, reactive notebooks (m
 
 [![Website](https://img.shields.io/badge/-Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ating.dev)
 [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/thliang01)
+[![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thliang01)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thliang01/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_thliang01)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thliang01@gmail.com)
