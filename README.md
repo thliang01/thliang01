@@ -61,7 +61,7 @@ Core member and complete brand designer for Taiwan's Traditional Chinese LLM res
 ## Recent Work & Talks
 
 - 🧪 **[ZipQDoRA](https://huggingface.co/collections/thliang01/zipqdora)** — DoRA + quantization for personalized image generation · Curated [LoRA/DoRA finetuning datasets](https://huggingface.co/collections/thliang01/datasets-for-lora-dora-finetuned) on HF Hub
-- 🎤 **Build with AI 2026** (GDG Taipei × Twinkle AI, Jan 2026) — Talk on solving notebook reproducibility with dataflow graphs (80+ attendees)
+- 🎤 **[Build with AI 2026](https://gdg.community.dev/events/details/google-gdg-taipei-presents-build-with-ai-2026-taipei-external-1-0103-twinkle-ai-lian-ming-chang/)** (GDG Taipei × Twinkle AI, Jan 2026) — Talk on solving notebook reproducibility with dataflow graphs (80+ attendees)
 - 📖 **[《Inference Engineering》書評](https://ailogora.com/card/1ef01101-6994-4e7c-b160-40c7f14c4176)** — Deep-dive review and community discussion on LLM inference optimization (200+ views on AILogora)
 - 🎨 **GPT Image 1 & Gemini Image Edit** — Built and deployed image generation/editing demos on [HF Spaces](https://huggingface.co/thliang01)
 - 🌐 **[使用 LM Studio 執行 gemma-3-4B-T1-it](https://ailogora.com/card/fa797d6c-ccf0-416c-a252-3e710893b130)** — Beginner tutorial for local LLM deployment (190+ views on AILogora)
