@@ -82,16 +82,6 @@ Core member and complete brand designer for Taiwan's Traditional Chinese LLM res
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thliang01&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)](https://github.com/thliang01)
-
-</div>
-
----
-
 ## Let's Connect
 
 I'm open to collaboration on Hugging Face ecosystem tools, reactive notebooks (marimo), Traditional Chinese LLMs, AI community branding, and bilingual open-source education.
