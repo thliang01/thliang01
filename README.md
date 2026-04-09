@@ -54,7 +54,7 @@ Core member and complete brand designer for Taiwan's Traditional Chinese LLM res
 | **Brand & Design** | Created the Formosan leopard cat mascot and full visual identity used across Discord, HF, GitHub, and events |
 | **Model Deployment** | Converted [gemma-3-4B-T1-it](https://huggingface.co/twinkle-ai/gemma-3-4B-T1-it) to [GGUF format](https://huggingface.co/thliang01/gemma-3-4B-T1-it-GGUF) (90 downloads/month) · Deployed [live demo on HF Spaces](https://huggingface.co/spaces/thliang01/twinkle-ai-gemma-3-4B-T1-it) with ZeroGPU |
 | **Content & Education** | Author on [AILogora](https://ailogora.com) · Host of 熬夜書訪 (late-night study sessions) |
-| **Data Curation** | Formosa-Vision and Traditional Chinese datasets for model training |
+| **Data Curation** | [Formosa-Vision](https://huggingface.co/datasets/twinkle-ai/Formosa-Vision) and Traditional Chinese datasets for model training |
 
 ---
 
