@@ -51,10 +51,10 @@ Core member and complete brand designer for Taiwan's Traditional Chinese LLM res
 
 | Role | Details |
 |------|---------|
-| **Brand & Design** | Created the Formosan leopard cat mascot and full visual identity used across Discord, HF, GitHub, and events |
+| **Brand & Design** | Created the Formosan leopard cat mascot and full visual identity used across Discord, HF, GitHub, and events · [Brand Assets →](https://huggingface.co/collections/twinkle-ai/brand-assets) |
 | **Model Deployment** | Converted [gemma-3-4B-T1-it](https://huggingface.co/twinkle-ai/gemma-3-4B-T1-it) to [GGUF format](https://huggingface.co/thliang01/gemma-3-4B-T1-it-GGUF) (90 downloads/month) · Deployed [live demo on HF Spaces](https://huggingface.co/spaces/thliang01/twinkle-ai-gemma-3-4B-T1-it) with ZeroGPU |
 | **Content & Education** | Author on [AILogora](https://ailogora.com) · Host of 熬夜書訪 (late-night study sessions) |
-| **Data Curation** | Formosa-Vision and Traditional Chinese datasets for model training |
+| **Data Curation** | [Formosa-Vision](https://huggingface.co/datasets/twinkle-ai/Formosa-Vision) and Traditional Chinese datasets for model training |
 
 ---
 
@@ -65,7 +65,7 @@ Core member and complete brand designer for Taiwan's Traditional Chinese LLM res
 - 📖 **[《Inference Engineering》書評](https://ailogora.com/card/1ef01101-6994-4e7c-b160-40c7f14c4176)** — Deep-dive review and community discussion on LLM inference optimization (200+ views on AILogora)
 - 🎨 **GPT Image 1 & Gemini Image Edit** — Built and deployed image generation/editing demos on [HF Spaces](https://huggingface.co/thliang01)
 - 🌐 **[使用 LM Studio 執行 gemma-3-4B-T1-it](https://ailogora.com/card/fa797d6c-ccf0-416c-a252-3e710893b130)** — Beginner tutorial for local LLM deployment (190+ views on AILogora)
-- 🎙️ **[Twinkle AI 熬夜書訪](https://github.com/thliang01/TwinkleAI-LLM-Book-Club)** — Regular host covering attention mechanisms, reactive notebooks, and Traditional Chinese ML topics
+- 🎙️ **[Twinkle AI 熬夜書訪](https://github.com/ai-twinkle/LLM-Book-Club)** — Regular host covering attention mechanisms, reactive notebooks, and Traditional Chinese ML topics
 
 ---
 
